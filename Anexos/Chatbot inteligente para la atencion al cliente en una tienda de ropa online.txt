@@ -1,0 +1,74 @@
+ Punto 1: Analizar las preguntas frecuentes de los clientes
+Como analista de datos,
+quiero revisar los chats del servicio al cliente,
+para identificar patrones y temas recurrentes que necesita cubrir el chatbot.
+
+Como especialista en UX,
+quiero evaluar las preguntas frecuentes en las redes sociales,
+para detectar necesidades de información inmediata del usuario.
+
+Como responsable de soporte,
+quiero filtrar las consultas por tipo de problema,
+para definir categorías claras en la estructura del chatbot.
+
+Como creador de contenido,
+quiero redactar respuestas concisas y claras para las preguntas frecuentes,
+para que el chatbot sea fácil de entender y efectivo.
+
+Como investigador de experiencia de usuario,
+quiero aplicar encuestas breves a los visitantes del sitio,
+para identificar qué tipo de información buscan sin necesidad de contactar soporte.
+
+Como jefe de atención al cliente,
+quiero comparar las dudas más comunes antes y después de lanzar el chatbot,
+para medir su efectividad y actualizar el contenido si es necesario.
+
+ Punto 4: Diseñar, entrenar e integrar el chatbot con respuestas automáticas
+Como desarrollador backend,
+quiero conectar el chatbot con la base de datos de productos,
+para que pueda dar respuestas en tiempo real sobre disponibilidad y tallas.
+
+Como diseñador de interfaz conversacional,
+quiero crear un diseño de conversación amigable y visualmente atractivo,
+para aumentar la interacción del cliente con el chatbot.
+
+Como especialista en inteligencia artificial,
+quiero entrenar el chatbot con lenguaje natural,
+para que entienda mejor las variaciones en las preguntas de los usuarios.
+
+Como administrador del sitio web,
+quiero integrar el chatbot sin afectar la velocidad de carga del sitio,
+para mantener una buena experiencia de usuario.
+
+Como tester de QA,
+quiero probar diferentes escenarios de conversación,
+para asegurarme de que el chatbot responde correctamente en todos los casos.
+
+Como gerente de TI,
+quiero asegurar que el chatbot esté activo 24/7 y sin interrupciones,
+para brindar atención constante a los clientes.
+
+ Punto 6: Incrementar más las ventas de la tienda gracias al chatbot
+Como cliente indeciso,
+quiero recibir recomendaciones de productos según mis preferencias,
+para facilitar mi decisión de compra.
+
+Como jefe de ventas,
+quiero que el chatbot promueva productos con más stock,
+para optimizar la rotación de inventario.
+
+Como responsable de marketing,
+quiero que el chatbot notifique sobre descuentos y promociones,
+para atraer más conversiones en el sitio.
+
+Como comprador frecuente,
+quiero que el chatbot me muestre mis compras anteriores,
+para volver a pedir productos fácilmente.
+
+Como responsable de estrategia digital,
+quiero analizar los productos más consultados por el chatbot,
+para enfocar las campañas de marketing en los artículos más demandados.
+
+Como gerente de e-commerce,
+quiero que el chatbot asista en el proceso de compra paso a paso,
+para reducir el abandono del carrito y aumentar las ventas concretadas.
